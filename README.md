@@ -62,7 +62,8 @@ I enjoy transforming ideas into real-world products that solve meaningful proble
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/nandakumar-123  
+- 💼 LinkedIn: https://www.linkedin.com/in/nandakumar-ai17  
+- 🐙 GitHub: https://github.com/nandakumar-123  
 
 ---
 
