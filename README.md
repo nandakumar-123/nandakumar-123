@@ -1,16 +1,15 @@
-```markdown
-<!-- ========================= HEADER ========================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=220&section=header&text=Nandakumar%20A&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20ML%20Engineer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=250&section=header&text=Nandakumar%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20ML%20Engineer&descAlignY=62"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Nandakumar+A;AI+Engineer+%7C+ML+Engineer;Building+AI+Agents+%26+ML+Solutions;LangGraph+%7C+LangChain+%7C+CrewAI+%7C+AutoGen;Full-Stack+Developer;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=90&lines=👋+Hi,+I'm+Nandakumar+A;🤖+AI+Engineer;🧠+Machine+Learning+Engineer;🚀+Building+AI+Agents+%26+ML+Solutions;⚡+LangGraph+%7C+LangChain+%7C+CrewAI+%7C+AutoGen;🌟+Always+Learning+and+Building" />
 </p>
 
 <h3 align="center">
-Aspiring AI Engineer & ML Engineer from India 🇮🇳
+Aspiring AI Engineer & Machine Learning Engineer from India 🇮🇳
 </h3>
 
 <p align="center">
@@ -25,8 +24,11 @@ Building AI Agents • Machine Learning Solutions • Full-Stack AI Products
 
 # 🚀 About Me
 
-- 🎓 Aspiring AI Engineer passionate about AI, Machine Learning & Intelligent Systems
-- 🔭 Currently Building:
+- 🎓 Aspiring AI Engineer passionate about AI, Machine Learning, and Intelligent Systems
+- 🤖 Building AI Agents using LangGraph, LangChain, CrewAI & AutoGen
+- 📊 Developing AI-powered Data Analytics & Machine Learning Platforms
+- 🌐 Creating Full-Stack AI Products
+- 🔭 Currently Working On:
   - AI Data Analyser
   - AI Website Generator
 - 🌱 Learning:
@@ -36,10 +38,26 @@ Building AI Agents • Machine Learning Solutions • Full-Stack AI Products
   - AutoGen
   - RAG Systems
   - MLOps
+  - Advanced Machine Learning
 - 👯 Open to collaborate on AI & Full-Stack Projects
-- 💬 Ask me about AI Agents, Machine Learning, Python, FastAPI & Full-Stack Development
+- 💬 Ask me about AI, ML, Python, FastAPI, React, and Full-Stack Development
 - 📫 Email: **nandakumaranandrajan@gmail.com**
-- ⚡ Fun Fact: I enjoy coding and playing cricket 🏏
+- 🏏 Fun Fact: I enjoy coding and playing cricket
+
+---
+
+# 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Agentic AI
+- Multi-Agent Systems
+- Large Language Models (LLMs)
+- RAG Applications
+- Data Science
+- MLOps
+- Full-Stack Development
 
 ---
 
@@ -53,13 +71,18 @@ Building AI Agents • Machine Learning Solutions • Full-Stack AI Products
 
 ---
 
-# 🛠️ Skills & Technologies
+# 🛠️ Tech Stack
 
-## 🤖 AI Engineering
+## 🤖 AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
 </p>
+
+## 🧠 Agentic AI
 
 <p>
 <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
@@ -70,25 +93,11 @@ Building AI Agents • Machine Learning Solutions • Full-Stack AI Products
 <img src="https://img.shields.io/badge/Generative_AI-orange?style=for-the-badge"/>
 </p>
 
----
-
-## 📊 Data Science & Machine Learning
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
-</p>
-
----
-
 ## 🚀 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
-
----
 
 ## ⚙️ Backend
 
@@ -96,15 +105,11 @@ Building AI Agents • Machine Learning Solutions • Full-Stack AI Products
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
----
-
 ## 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-
----
 
 ## 🛠️ Tools
 
@@ -114,40 +119,66 @@ Building AI Agents • Machine Learning Solutions • Full-Stack AI Products
 
 ---
 
+# 💡 Core Skills
+
+- Python Programming
+- Machine Learning
+- Data Analysis
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- AI Agent Development
+- API Development
+- Full-Stack Web Development
+- Problem Solving
+
+---
+
 # 🚀 Featured Projects
 
 ## 🤖 AI Data Analyser
 
-Enterprise AI-powered Data Cleaning, Analytics, Visualization and Machine Learning Platform.
+Enterprise AI-powered platform for:
 
-### Features
+✅ Data Cleaning  
+✅ Missing Value Handling  
+✅ Outlier Detection  
+✅ Duplicate Detection  
+✅ Feature Engineering  
+✅ Exploratory Data Analysis  
+✅ Interactive Dashboards  
+✅ Machine Learning Workflows  
+✅ Model Comparison  
+✅ Explainable AI  
 
-- Automated Data Cleaning
-- Missing Value Handling
-- Duplicate Detection
-- Outlier Detection
-- Interactive Dashboards
-- EDA Automation
-- Machine Learning Model Training
-- Model Comparison
-- Explainable AI
-- Dataset Health Monitoring
-
-🔗 Repository:
+🔗 Repository:  
 https://github.com/nandakumar-123/AI-Data-Analyser
 
 ---
 
 ## 🌐 AI Website Generator
 
-Generate complete websites using AI-powered automation.
+Generate modern websites using AI-powered automation and intelligent workflows.
 
-🔗 Repository:
+🔗 Repository:  
 https://github.com/nandakumar-123/full-stack-AI-Website-Generator-Website
 
 ---
 
-# 📊 GitHub Stats
+# 📚 Currently Learning
+
+- LangGraph Advanced Workflows
+- Multi-Agent Architectures
+- CrewAI
+- AutoGen
+- Advanced Machine Learning
+- RAG Systems
+- MLOps
+- AI System Design
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nandakumar-123&show_icons=true&theme=tokyonight"/>
@@ -168,17 +199,9 @@ https://github.com/nandakumar-123/full-stack-AI-Website-Generator-Website
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandakumar-123&theme=react-dark"/>
-</p>
-
----
-
 # 🎯 Current Focus
 
-- Agentic AI
+- Agentic AI Systems
 - LangGraph Workflows
 - Multi-Agent Systems
 - Generative AI
@@ -188,9 +211,20 @@ https://github.com/nandakumar-123/full-stack-AI-Website-Generator-Website
 
 ---
 
-# ⭐ Goal
+# 🎓 Career Objective
 
-To become a world-class AI Engineer and build impactful AI products that solve real-world problems.
+To become a professional AI Engineer focused on building intelligent systems, AI agents, machine learning solutions, and scalable AI-powered products that solve real-world problems.
+
+---
+
+# ⭐ Open For
+
+- AI Engineering Internships
+- Machine Learning Internships
+- Open Source Contributions
+- AI Research Projects
+- Hackathons
+- Collaboration Opportunities
 
 ---
 
@@ -201,4 +235,3 @@ To become a world-class AI Engineer and build impactful AI products that solve r
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
 </p>
-```
